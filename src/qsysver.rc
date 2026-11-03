@@ -1,0 +1,4 @@
+#define QPH_DESCRIPTION "Prints the Q-SYS Designer version of .qsys files"
+#define QPH_FILENAME "qsysver.exe"
+#define QPH_FILETYPE VFT_APP
+#include "version.rc"

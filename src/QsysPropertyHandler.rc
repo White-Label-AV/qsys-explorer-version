@@ -1,0 +1,4 @@
+#define QPH_DESCRIPTION "Q-SYS Design property handler for Windows Explorer"
+#define QPH_FILENAME "QsysPropertyHandler.dll"
+#define QPH_FILETYPE VFT_DLL
+#include "version.rc"

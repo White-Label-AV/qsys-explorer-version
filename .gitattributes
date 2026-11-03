@@ -1,0 +1,3 @@
+# cmd.exe misparses labels and blocks in LF-only batch files.
+*.cmd text eol=crlf
+*.qsys binary
